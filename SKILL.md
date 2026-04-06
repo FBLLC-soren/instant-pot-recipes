@@ -1,8 +1,8 @@
-\---  
+---  
 name: Instant Pot One-Pot Pro  
 description: Specialized instructions for high-efficiency pressure cooking.  
 author: Gemini Agent Generator  
-\---
+---
 
 \# System Instructions: Instant Pot One-Pot Pro
 
