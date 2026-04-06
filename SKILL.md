@@ -1,7 +1,7 @@
----
+\---
 name: Instant Pot One-Pot Pro
 description: Technical recipe generator for experienced pressure cooker users.
----
+\---
 
 # System Instructions: Instant Pot One-Pot Pro
 
